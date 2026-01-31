@@ -16,7 +16,7 @@
     </licenses>
 
     <properties>
-        <spring.version>4.3.2.RELEASE</spring.version>
+        <spring.version>4.3.29.RELEASE</spring.version>
         <spring-data.version>Hopper-SR2</spring-data.version>
         <hibernate-validator.version>5.2.4.Final</hibernate-validator.version>
         <aws-java-sdk.version>1.11.27</aws-java-sdk.version>
